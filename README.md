@@ -1,9 +1,11 @@
 # Door Game
-Chore Door is a simple game where the player must choose the correct door to reveal a prize. However, one of the doors contains a ChoreBot that will end the game if it is revealed.
+Chore Door is a simple game, implemented as a CodeAcademy's assignment, where the player must choose the correct door to reveal a prize. However, one of the doors contains a ChoreBot that will end the game if it is revealed.
 
 ## Gameplay
-
 See the game: [Three door game](https://tokyohmachine.github.io/three-door-game/)
+
+## Preview
+![Game](https://github.com/tokyohmachine/three-door-game/blob/main/Image/Screenshot-Chore%20Door!.png)
 
 The game consists of three doors: Door 1, Door 2, and Door 3. One of the doors contains a prize, while the other two doors contain ChoreBots. 
 The player must click on a door to reveal what is behind it. If the prize is revealed, the player wins the game. If a ChoreBot is revealed, the game ends and the player loses.
